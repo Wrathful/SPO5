@@ -1,0 +1,10 @@
+C:\Users\Dmitry\source\repos\SPO\Lab5\bin\Release\Lab5.exe.config
+C:\Users\Dmitry\source\repos\SPO\Lab5\bin\Release\Lab5.exe
+C:\Users\Dmitry\source\repos\SPO\Lab5\bin\Release\Lab5.pdb
+C:\Users\Dmitry\source\repos\SPO\Lab5\obj\Release\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\source\repos\SPO\Lab5\obj\Release\Lab5.Form1.resources
+C:\Users\Dmitry\source\repos\SPO\Lab5\obj\Release\Lab5.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\SPO\Lab5\obj\Release\Lab5.csproj.GenerateResource.Cache
+C:\Users\Dmitry\source\repos\SPO\Lab5\obj\Release\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\SPO\Lab5\obj\Release\Lab5.exe
+C:\Users\Dmitry\source\repos\SPO\Lab5\obj\Release\Lab5.pdb
